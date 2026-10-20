@@ -91,7 +91,7 @@ PHOTO_DETAILS = {
         "heroCandidate": False
     },
     "aperipirlo-ragazza.jpg": {
-        "title": "Vibrazioni Aperitivo",
+        "title": "Aperitivo Vibes",
         "category": "lifestyle",
         "categoryLabel": "Eventi & Lifestyle",
         "context": "AperiPirlo Event",

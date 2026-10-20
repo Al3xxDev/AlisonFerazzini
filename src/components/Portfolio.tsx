@@ -250,7 +250,7 @@ export const Portfolio: React.FC = () => {
               style={{ animationDelay: '180ms', animationDuration: '400ms' }}
             >
               Una selezione curata di fotografie reali scattate tra il Lago di Garda, Bergamo e Brescia.
-              Ritratti spontanei, dettagli gastronomici, vibrazioni notturne e cerimonie intime.
+              Ritratti spontanei, dettagli gastronomici, vibes notturne e cerimonie intime.
             </p>
           </div>
 

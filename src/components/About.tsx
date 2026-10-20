@@ -191,7 +191,7 @@ export const About: React.FC = () => {
                 className={isMainVisible ? 'about-para-reveal' : 'opacity-0'}
                 style={{ animationDelay: '340ms', animationDuration: '400ms' }}
               >
-                Amo catturare l’energia travolgente degli eventi e trasformare momenti autentici in ricordi preziosi da conservare. Che si tratti della vibrazione ritmata di una serata, della luce dorata al tramonto sul lago, o della gioia sincera di una tavola imbandita, il mio obiettivo è cogliere la verità di ciò che accade senza forzature.
+                Amo catturare l’energia travolgente degli eventi e trasformare momenti autentici in ricordi preziosi da conservare. Che si tratti delle vibes di una serata, della luce dorata al tramonto sul lago, o della gioia sincera di una tavola imbandita, il mio obiettivo è cogliere la verità di ciò che accade senza forzature.
               </p>
               <p
                 className={isMainVisible ? 'about-para-reveal' : 'opacity-0'}
